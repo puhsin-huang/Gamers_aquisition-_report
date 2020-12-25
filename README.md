@@ -1,4 +1,4 @@
-# Gamers_aquisition-_report
+# Gamers_aquisition_report
 
 ### Business Background & Goal:
 A prospective mobile gaming client is looking to acquire new casual gamers for their jigsaw puzzle games.
